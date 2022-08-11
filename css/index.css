@@ -36,23 +36,19 @@ label {
 }
 
 input, textarea, select {
-    margin-top: 10px;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
-    width: 100%;
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
 }
 
 input, textarea {
     background-color: #0a0a23;
     border: 1px solid #0a0a23;
-    min-height: 2em;
     color: #ffffff;
 }
 
 .inline {
     width: unset;
-    margin: 0;
-    margin-right: 0.5em;
+    margin: 0 0.5em 0 0;
     vertical-align: middle;
 }
