@@ -26,6 +26,10 @@ fieldset {
     border-bottom: 3px solid #3b3b4f;
 }
 
+fieldset:last-of-type {
+    border-bottom: none;
+}
+
 label {
     display: block;
     margin: 0.5rem 0;
