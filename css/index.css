@@ -46,6 +46,8 @@ input, textarea, select {
 input, textarea {
     background-color: #0a0a23;
     border: 1px solid #0a0a23;
+    min-height: 2em;
+    color: #ffffff;
 }
 
 .inline {
