@@ -42,3 +42,7 @@ input, textarea, select {
     margin-right: 0;
     width: 100%;
 }
+
+.inline {
+    width: unset;
+}
