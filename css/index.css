@@ -34,3 +34,11 @@ label {
     display: block;
     margin: 0.5rem 0;
 }
+
+input, textarea, select {
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
